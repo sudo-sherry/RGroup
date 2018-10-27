@@ -1,0 +1,43 @@
+.abc {
+    list-style-type: none;
+    margin-top: 1%;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+
+.ijk a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 36px;
+    text-decoration: none;
+}
+
+
+.wrapper{
+       
+}
+
+.description{
+    margin-top:5%;
+    clear:both;
+    width:50%;
+    border:2px black solid;
+    margin-left:24%;
+    padding: 5%;
+    padding-top: 3%;
+    box-shadow: 5px 10px #888;
+    border-radius: 5%;
+
+}
+
+.header1{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+.abc a{
+    color: white;
+}

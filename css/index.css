@@ -1,0 +1,106 @@
+@media (min-width: 601px){
+	.w3-col.m4, .w3-third {
+	    width: 20% !important;
+	}
+
+	.w3-large{
+		padding:5px;
+	}
+	.w3-button{
+		margin:25px;
+		margin-top:0;
+		margin-bottom:0;
+	}
+}
+
+.devimg{
+	border-radius:15%;
+	margin:2%;
+	margin-bottom:10%;
+	/*box-shadow: 5px 10px #888;*/
+}
+
+.shadow3d{
+	box-shadow: 5px 10px #888;
+}
+
+.myform{
+	text-align: center;
+}
+
+.form_element{
+	padding:2%;
+	margin:2%;
+
+}
+
+.form_element:hover{
+	background-color: #ffffb3;
+}
+
+.modal-header{
+	text-align:center;
+	font-weigth:200%;
+	background-color: #7ce94c;
+}
+
+.paralax{
+	min-height:900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contact{
+	margin:5%;
+}
+
+.w3-content{
+	line-height: 35px;
+	padding:5%;
+}
+
+.header{
+	font-weight: 500px;
+	margin-bottom: 2%;
+}
+
+.close{
+	color:red;
+}
+
+/*
+.centerbg{
+	background-image: url('../img/centerbg.jpg');
+	background-repeat: repeat;
+	background-size: cover;
+ 
+}
+
+*/
+
+.about_div{
+
+	background-image: url('../img/centerbg.jpg');
+}
+
+.tranfix{
+	position: absolute;
+	margin: 30px;
+	margin-left:33%;
+	margin-top:15%;
+	background-color:black;
+	border: 1px solid black;
+	
+	
+}
+
+.tranfix p,.tranfix .header{
+  margin: 5%;
+  font-weight: bold;
+  color: #fff;
+}
+.chutiya{
+	margin-right:100%
+}

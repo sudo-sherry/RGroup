@@ -1,0 +1,23 @@
+
+
+body{
+	
+	background-image: url(../img/userbg.jpg) ;
+	background-repeat:repeat;
+	background-size: cover;
+	bottom:500px;
+}
+.nav-pills{
+   padding: 5px;
+
+}
+
+.card{
+	margin-top: 5%;
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+	 float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+
