@@ -1,0 +1,10 @@
+create table users(
+	id int(11) NOT null PRIMARY key AUTO_INCREMENT,
+    fname varchar(225),
+    lname varchar(225),
+    username varchar(255),
+    addr varchar(255),
+    pwd varchar(255)
+   
+);
+
